@@ -1,2 +1,2 @@
-# ES6AUG1
+# ES6GlobalReference
 Created with CodeSandbox
